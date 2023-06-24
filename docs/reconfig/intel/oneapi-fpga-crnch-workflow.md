@@ -136,7 +136,7 @@ PASSED: The results are correc
 ```
 
 ## Simulation with ModelSim and Questa
-Right now we don't support this step since we don't .
+Right now we don't support this step since we don't have these tools installed.
 
 ## Investigating the Optimization Report
 
